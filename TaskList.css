@@ -1,0 +1,14 @@
+
+.completed {
+    text-decoration: line-through;
+  }
+  
+  .not-completed {
+    text-decoration:none;
+  }
+  
+li{
+    list-style-type: none;
+    font-size: 20px;
+
+}
